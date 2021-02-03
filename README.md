@@ -30,6 +30,6 @@ Students will attempt efficient CSS by using advanced CSS selectors and will res
 
 ## Submission
 
-Push the assignment files to the GitHub Classroom assignment before the **due date of Sunday, Oct 18th at 11:55pm**.
+Push the assignment files to the GitHub Classroom assignment before the **due date of Sunday, Feb 14th at 11:50pm**.
 
 **LATE ASSIGNMENTS WILL NOT BE ACCEPTED**
